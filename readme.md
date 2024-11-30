@@ -12,7 +12,7 @@
 <p class="has-line-data" data-line-start="11" data-line-end="12">請先確認本機已安裝python</p>
 <pre><code class="has-line-data" data-line-start="14" data-line-end="16" class="language-python">  pip install -r requirements.txt
 </code></pre>
-<p class="has-line-data" data-line-start="17" data-line-end="20">在 <a href="http://script.py">script.py</a> 中設定<br>
+<p class="has-line-data" data-line-start="17" data-line-end="20">在 <a href="https://github.com/LaplusIjns/ithome_ironman/blob/master/script.py">script.py</a> 中設定<br>
 include_keyword = [‘java’,‘spring’] # 要包含的關鍵字<br>
 exclude_keyword = [‘javascript’] # 要排除的關鍵字</p>
 <pre><code class="has-line-data" data-line-start="21" data-line-end="23">python script.py
