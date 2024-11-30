@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ithome_ironman_0"></a>ithome_ironman</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">用於爬取 IT邦幫忙的爬蟲工具,可以根據關鍵字過濾出相關文章。</p>
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Features_4"></a>Features</h2>
